@@ -1,0 +1,26 @@
+{
+  "name": "sass-mastry",
+  "version": "1.0.0",
+  "description": "Bootstrap5 and Sass Mastery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geerocktricks/Sass-Mastry.git"
+  },
+  "author": "Gerald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geerocktricks/Sass-Mastry/issues"
+  },
+  "homepage": "https://github.com/Geerocktricks/Sass-Mastry#readme",
+  "devDependencies": {
+    "sass": "^1.49.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.3"
+  }
+}
