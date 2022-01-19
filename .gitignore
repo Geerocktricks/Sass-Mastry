@@ -1,2 +1,4 @@
 /scss
 /node_modules
+.gitignore
+theming-kit.html
