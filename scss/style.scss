@@ -1,1 +1,20 @@
+// Import my bootstrap customs
 @import './custom-bootstrap';
+
+// Import components
+@import './components/animations';
+@import './components/mixins';
+@import './components/buttons';
+@import './components/typography';
+
+
+// Import sections
+@import './sections/navbar';
+@import './sections/intro';
+@import './sections/companies';
+@import './sections/services';
+@import './sections/testimonials';
+@import './sections/faq';
+@import './sections/portfolio';
+@import './sections/getstarted';
+@import './sections/footer';
